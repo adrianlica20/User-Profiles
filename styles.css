@@ -1,0 +1,12 @@
+img {
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.555);
+}
+
+.card-component {
+  transition: all 0.5s ease;
+}
+
+.card-component:hover {
+  cursor: pointer;
+  scale: 1.05;
+}
